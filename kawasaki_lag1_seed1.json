@@ -1,0 +1,31 @@
+{
+ "corr": [
+  0.56,
+  0.322,
+  0.069,
+  -0.002
+ ],
+ "A": {
+  "self": 0.9609,
+  "micro": 0.9641,
+  "autonomy": 0.997
+ },
+ "B8": {
+  "self": 0.9616,
+  "micro": 0.9647,
+  "autonomy": 0.997
+ },
+ "Tri": {
+  "self": 0.9636,
+  "micro": 0.966,
+  "autonomy": 0.998
+ },
+ "Gau": {
+  "self": 0.9687,
+  "micro": 0.9707,
+  "autonomy": 0.998
+ },
+ "deriv_Tri_from_A": 0.856,
+ "deriv_B8_from_A": 0.558,
+ "deriv_Gau_from_A": 0.873
+}

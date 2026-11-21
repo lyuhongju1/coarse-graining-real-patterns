@@ -1,0 +1,18 @@
+{
+ "lag1": {
+  "A_next_from_A": 0.941,
+  "A_next_from_W": -0.0,
+  "W_next_from_W": 0.448,
+  "W_next_from_A": 0.339,
+  "A_next_from_both": 0.941,
+  "W_next_from_both": 0.472
+ },
+ "lag4": {
+  "A_next_from_A": 0.748,
+  "A_next_from_W": -0.0,
+  "W_next_from_W": 0.123,
+  "W_next_from_A": 0.142,
+  "A_next_from_both": 0.748,
+  "W_next_from_both": 0.153
+ }
+}
